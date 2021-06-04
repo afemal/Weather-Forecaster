@@ -12,3 +12,5 @@ The goal of this project was to create a program that provides weather forecast 
   * datetime
   * PrettyTable
   * string
+
+This program requires an API key. One can be obtained by visiting [Open Weather Map](https://openweathermap.org/api).
